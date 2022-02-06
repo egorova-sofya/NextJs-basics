@@ -1,0 +1,10 @@
+{
+  "posts": [
+    { "id": 1, "title": "js post", "body": "fddgthhy hrhrhrt t hrh" },
+    { "id": 2, "title": "react post", "body": "fddgthhy hrhrhrt t hrh" },
+    { "id": 3, "title": "next.js post", "body": "fddgthhy hrhrhrt t hrh" }
+  ],
+  "about": {
+    "title": "Page about us"
+  }
+}
